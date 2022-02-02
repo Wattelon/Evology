@@ -1,0 +1,1 @@
+../../../Evology/Evology.uproject  /Game/Maps/Main -Messaging -SessionId=2B9B36F446E1C29E7A852EAB363C063C -SessionOwner="IT" -SessionName="Launch On Device" -iterative
